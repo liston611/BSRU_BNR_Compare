@@ -1,2 +1,4 @@
 # Ignore all .xlsx files
 *.xlsx
+
+.vscode
